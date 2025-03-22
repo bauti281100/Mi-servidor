@@ -1,49 +1,53 @@
-[14:24:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:24:20] [ServerMain/INFO]: Loaded 7 recipes
-[14:24:20] [ServerMain/INFO]: Loaded 1271 advancements
-[14:24:21] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:24:21] [Server thread/INFO]: Loading properties
-[14:24:21] [Server thread/INFO]: Default game type: SURVIVAL
-[14:24:21] [Server thread/INFO]: Generating keypair
-[14:24:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:24:22] [Server thread/INFO]: Using epoll channel type
-[14:24:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:24:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:24:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:24:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:24:22] [Server thread/INFO]: Preparing level "world"
-[14:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:24:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[14:24:43] [Server thread/INFO]: Time elapsed: 11751 ms
-[14:24:43] [Server thread/INFO]: Done (21.338s)! For help, type "help"
-[14:26:29] [Server thread/INFO]: bau3002[/100.115.154.47:57585] logged in with entity id 236 at (-36.237117670765436, 66.0, 2.817552670787934)
-[14:26:29] [Server thread/INFO]: bau3002 joined the game
-[14:30:48] [Server thread/INFO]: bau3002 was slain by Spider
-[14:31:25] [Server thread/INFO]: bau3002 has made the advancement [Sweet Dreams]
-[14:34:15] [Server thread/INFO]: [Not Secure] * bau3002 lol
-[14:36:59] [Server thread/INFO]: bau3002 has made the advancement [Stone Age]
-[14:37:46] [Server thread/INFO]: bau3002 has made the advancement [Getting an Upgrade]
-[14:43:51] [Server thread/INFO]: bau3002 has made the advancement [Monster Hunter]
-[15:07:58] [Server thread/INFO]: bau3002 has made the advancement [Acquire Hardware]
+[15:17:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:17:55] [ServerMain/INFO]: Loaded 7 recipes
+[15:17:55] [ServerMain/INFO]: Loaded 1271 advancements
+[15:17:57] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[15:17:57] [Server thread/INFO]: Loading properties
+[15:17:57] [Server thread/INFO]: Default game type: SURVIVAL
+[15:17:57] [Server thread/INFO]: Generating keypair
+[15:17:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:17:57] [Server thread/INFO]: Using epoll channel type
+[15:17:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:17:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:17:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:17:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:17:58] [Server thread/INFO]: Preparing level "world"
+[15:18:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:18:23] [Worker-Main-1/INFO]: Preparing spawn area: 31%
+[15:18:24] [Server thread/INFO]: Time elapsed: 17185 ms
+[15:18:24] [Server thread/INFO]: Done (26.539s)! For help, type "help"
+[15:18:40] [Server thread/INFO]: bau3002[/100.115.154.47:57780] logged in with entity id 126 at (239.4723108041069, 68.16610926093821, 206.2954031643004)
+[15:18:40] [Server thread/INFO]: bau3002 joined the game
+[15:27:42] [Server thread/INFO]: bau3002 has made the advancement [Ice Bucket Challenge]
